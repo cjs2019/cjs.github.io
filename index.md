@@ -1,4 +1,9 @@
-# cjs
+# cjs 
+
+Let's do something cool, like ...
+understanding the boundaries of human language, cognition and existence?
+and push it race forward?
+(・－・。)
 
 ## About Me
 
