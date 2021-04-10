@@ -1,13 +1,6 @@
-# cjs of Konisberg-XIV
-## 0. Motto
+# cjs
 
-”to be an ai researcher and a philosopher“
-
-"to understand the boundaries of human language, cognition, intelligence and existence clearly,“ 
-
-"and devote my lifetime to something really cool (, and maybe certain unexpected achievements as bonuses)"
-
-## 1. About Me
+## About Me
 
 <table border="0">
   <tr>
@@ -26,16 +19,16 @@
 
 
 
-## 2. latest info
+## latest info
 
 
-## 3. research interests
+## research interests
 
-## 4. publication list
+## publication list
 
-## 5. work experiences or projects
+## work experiences or projects
 
-## 6. Rewards and Honors
+## Rewards and Honors
 
-## 7. contact
+## contact
 
